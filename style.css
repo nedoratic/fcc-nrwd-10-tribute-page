@@ -49,7 +49,8 @@ figure {
 
 img {
     width: 90%;
-    max-width: 600px;
+    max-width: 100%;
+    height: auto;
     margin: 10px auto;
     display: block;
     border-radius: 10px;
@@ -86,10 +87,17 @@ cite {
     margin: 0 auto;
 }
 
+#tribute-link {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
 a {
     text-decoration: none;
     font-size: 1.4rem;
     text-align: center;
+    margin: 10px auto;
     color: #2b1a0f;
 }
 
