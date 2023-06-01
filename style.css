@@ -73,10 +73,16 @@ h2 {
 }
 
 blockquote {
+    font-size: 1.4rem;
     text-align: center;
+    width: 80%;
+    margin: 0 auto;
 }
 
 cite {
+    font-size: 1.3rem;
     text-align: center;
+    width: 80%;
+    margin: 0 auto;
 }
 
