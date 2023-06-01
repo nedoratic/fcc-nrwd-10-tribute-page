@@ -23,6 +23,8 @@ body {
     background-color: #2b1a0f;
 }
 
+/* MAIN */
+
 #main {
     background-color: #faf6ae;
     border-radius: 10px;
@@ -47,7 +49,7 @@ figure {
     text-align: center;
 }
 
-img {
+#image {
     width: 90%;
     max-width: 100%;
     height: auto;
