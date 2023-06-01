@@ -86,3 +86,18 @@ cite {
     margin: 0 auto;
 }
 
+a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    text-align: center;
+    color: #2b1a0f;
+}
+
+a:hover {
+    color: #c8a157;
+}
+
+a:active {
+    color: #60351d;
+}
+
